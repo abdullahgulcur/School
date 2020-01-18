@@ -1,0 +1,138 @@
+
+---STOP WORD LIST---
+
+-ve: Total Number of Documents: 16
+DocID-1 econ  TotNums:1  LengthOfDoc:36
+DocID-2 econ  TotNums:2  LengthOfDoc:49
+DocID-3 econ  TotNums:4  LengthOfDoc:104
+DocID-4 econ  TotNums:2  LengthOfDoc:29
+DocID-5 econ  TotNums:1  LengthOfDoc:48
+DocID-6 econ  TotNums:4  LengthOfDoc:62
+DocID-1 health  TotNums:2  LengthOfDoc:66
+DocID-2 health  TotNums:2  LengthOfDoc:45
+DocID-3 health  TotNums:4  LengthOfDoc:58
+DocID-4 health  TotNums:2  LengthOfDoc:32
+DocID-5 health  TotNums:3  LengthOfDoc:93
+DocID-6 health  TotNums:1  LengthOfDoc:33
+DocID-1 magazin  TotNums:3  LengthOfDoc:52
+DocID-3 magazin  TotNums:3  LengthOfDoc:33
+DocID-4 magazin  TotNums:2  LengthOfDoc:75
+DocID-5 magazin  TotNums:2  LengthOfDoc:34
+
+-ilk: Total Number of Documents: 14
+DocID-1 econ  TotNums:1  LengthOfDoc:36
+DocID-2 econ  TotNums:1  LengthOfDoc:49
+DocID-4 econ  TotNums:1  LengthOfDoc:29
+DocID-6 econ  TotNums:1  LengthOfDoc:62
+DocID-1 health  TotNums:2  LengthOfDoc:66
+DocID-2 health  TotNums:1  LengthOfDoc:45
+DocID-3 health  TotNums:1  LengthOfDoc:58
+DocID-4 health  TotNums:1  LengthOfDoc:32
+DocID-5 health  TotNums:1  LengthOfDoc:93
+DocID-1 magazin  TotNums:2  LengthOfDoc:52
+DocID-2 magazin  TotNums:1  LengthOfDoc:43
+DocID-3 magazin  TotNums:1  LengthOfDoc:33
+DocID-4 magazin  TotNums:1  LengthOfDoc:75
+DocID-5 magazin  TotNums:1  LengthOfDoc:34
+
+-da: Total Number of Documents: 9
+DocID-1 econ  TotNums:1  LengthOfDoc:36
+DocID-2 econ  TotNums:1  LengthOfDoc:49
+DocID-3 econ  TotNums:2  LengthOfDoc:104
+DocID-5 econ  TotNums:1  LengthOfDoc:48
+DocID-6 econ  TotNums:2  LengthOfDoc:62
+DocID-6 health  TotNums:1  LengthOfDoc:33
+DocID-7 health  TotNums:1  LengthOfDoc:32
+DocID-1 magazin  TotNums:1  LengthOfDoc:52
+DocID-4 magazin  TotNums:1  LengthOfDoc:75
+
+-bir: Total Number of Documents: 9
+DocID-2 econ  TotNums:1  LengthOfDoc:49
+DocID-6 econ  TotNums:1  LengthOfDoc:62
+DocID-1 health  TotNums:1  LengthOfDoc:66
+DocID-4 health  TotNums:2  LengthOfDoc:32
+DocID-7 health  TotNums:2  LengthOfDoc:32
+DocID-1 magazin  TotNums:1  LengthOfDoc:52
+DocID-2 magazin  TotNums:1  LengthOfDoc:43
+DocID-3 magazin  TotNums:1  LengthOfDoc:33
+DocID-4 magazin  TotNums:2  LengthOfDoc:75
+
+-bu: Total Number of Documents: 7
+DocID-5 econ  TotNums:1  LengthOfDoc:48
+DocID-6 econ  TotNums:2  LengthOfDoc:62
+DocID-1 health  TotNums:1  LengthOfDoc:66
+DocID-5 health  TotNums:2  LengthOfDoc:93
+DocID-6 health  TotNums:1  LengthOfDoc:33
+DocID-7 health  TotNums:1  LengthOfDoc:32
+DocID-1 magazin  TotNums:1  LengthOfDoc:52
+
+---DISCRIMINATED ECONS---
+
+-baþkan: Total Number of Documents: 3
+DocID-2 econ  TotNums:1  LengthOfDoc:49
+DocID-3 econ  TotNums:1  LengthOfDoc:104
+DocID-6 econ  TotNums:1  LengthOfDoc:62
+
+-özellik: Total Number of Documents: 2
+DocID-3 econ  TotNums:1  LengthOfDoc:104
+DocID-4 econ  TotNums:1  LengthOfDoc:29
+
+-önyargý: Total Number of Documents: 2
+DocID-4 econ  TotNums:1  LengthOfDoc:29
+DocID-6 econ  TotNums:1  LengthOfDoc:62
+
+-ulaþ: Total Number of Documents: 2
+DocID-1 econ  TotNums:1  LengthOfDoc:36
+DocID-4 econ  TotNums:1  LengthOfDoc:29
+
+-türk: Total Number of Documents: 2
+DocID-1 econ  TotNums:1  LengthOfDoc:36
+DocID-2 econ  TotNums:3  LengthOfDoc:49
+
+---DISCRIMINATED HEALTHS---
+
+-saðlýk: Total Number of Documents: 3
+DocID-2 health  TotNums:2  LengthOfDoc:45
+DocID-3 health  TotNums:1  LengthOfDoc:58
+DocID-5 health  TotNums:2  LengthOfDoc:93
+
+-klon: Total Number of Documents: 3
+DocID-1 health  TotNums:3  LengthOfDoc:66
+DocID-4 health  TotNums:2  LengthOfDoc:32
+DocID-7 health  TotNums:2  LengthOfDoc:32
+
+-bilim: Total Number of Documents: 3
+DocID-1 health  TotNums:2  LengthOfDoc:66
+DocID-4 health  TotNums:2  LengthOfDoc:32
+DocID-7 health  TotNums:2  LengthOfDoc:32
+
+-çalýþma: Total Number of Documents: 2
+DocID-4 health  TotNums:1  LengthOfDoc:32
+DocID-7 health  TotNums:2  LengthOfDoc:32
+
+-yýldýz: Total Number of Documents: 2
+DocID-2 health  TotNums:2  LengthOfDoc:45
+DocID-6 health  TotNums:1  LengthOfDoc:33
+
+---DISCRIMINATED MAGAZINS---
+
+-baþrol: Total Number of Documents: 3
+DocID-1 magazin  TotNums:1  LengthOfDoc:52
+DocID-3 magazin  TotNums:1  LengthOfDoc:33
+DocID-4 magazin  TotNums:1  LengthOfDoc:75
+
+-þarký: Total Number of Documents: 2
+DocID-2 magazin  TotNums:4  LengthOfDoc:43
+DocID-5 magazin  TotNums:1  LengthOfDoc:34
+
+-ünlü: Total Number of Documents: 2
+DocID-2 magazin  TotNums:2  LengthOfDoc:43
+DocID-3 magazin  TotNums:1  LengthOfDoc:33
+
+-özcan: Total Number of Documents: 2
+DocID-1 magazin  TotNums:2  LengthOfDoc:52
+DocID-4 magazin  TotNums:1  LengthOfDoc:75
+
+-çekim: Total Number of Documents: 2
+DocID-1 magazin  TotNums:1  LengthOfDoc:52
+DocID-4 magazin  TotNums:2  LengthOfDoc:75
