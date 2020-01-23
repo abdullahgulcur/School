@@ -16,4 +16,4 @@ In this project we can find the node with find function and we can remove specif
 We also need to find a formula that makes the tree has a minimum depth level.
 In that situation I developed an artificial intelligence that creates its own formula to keep tree in minimum depth level.
 
-<img src="images/mll2.png" width = "1276" height = "646">
+<img src="images/mll2.png" width = "638" height = "323">
