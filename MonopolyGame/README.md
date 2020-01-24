@@ -31,4 +31,11 @@ Game ends after there is only one player left.
 Each player must have unique piece representation.
 Each player must have unique name.
 ### UML CLASS DIAGRAM
-<img src="images/uml.png" width = "752" height = "607">
+<img src="images/uml.png" width = "865" height = "698">
+### CLASS SEQUENCE DIAGRAM
+<img src="images/s1.png" width = "591" height = "442">
+<img src="images/s2.png" width = "604" height = "457">
+<img src="images/s3.png" width = "754" height = "727">
+<img src="images/s4.png" width = "840" height = "556">
+
+
